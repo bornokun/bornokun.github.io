@@ -1,1 +1,0 @@
-# bornokun.github.io
