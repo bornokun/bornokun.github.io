@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+body {
+	font-family: 'Comfortaa', cursive;
+}
+a.navbar-brand {
+	font-size: 30px;
+	font-weight:bold;
+}
+
+.menu{
+	text-align: center;
+	font-size: 1.1em;
+	font-weight: bold;
+}
+
+section {
+	width: auto;
+    height: auto;
+    padding: 20px;
+}
+
+#our-menu {
+	font-size:30px;
+	font-weight: bold;
+	color:#3b3b3b;
+	padding-bottom: 30px;
+}
+
+#beef, #chicken, #sushi {
+	height: auto;
+	margin-bottom: 30px;
+	background-color: #b0b0b0;
+}
+
